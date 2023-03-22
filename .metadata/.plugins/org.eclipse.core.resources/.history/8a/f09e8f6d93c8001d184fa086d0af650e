@@ -1,0 +1,5 @@
+package com.maukazinfotech.Repository;
+
+public interface OrderItemsRepository {
+
+}
