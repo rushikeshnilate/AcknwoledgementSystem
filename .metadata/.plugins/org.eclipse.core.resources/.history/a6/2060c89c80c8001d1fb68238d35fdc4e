@@ -1,0 +1,5 @@
+package com.maukazinfotech.Entity;
+
+public class Address {
+
+}

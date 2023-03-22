@@ -1,0 +1,20 @@
+package com.maukazinfotech.Entity;
+
+import java.time.LocalDate;
+
+public class OrderHeader {
+	
+	private int ordId;
+	
+	private String userName;
+	
+	private long userNumber;
+	
+	private String purchaseOrderNumber;
+	
+	private LocalDate purchaseOrderDate;
+	
+	
+	
+
+}

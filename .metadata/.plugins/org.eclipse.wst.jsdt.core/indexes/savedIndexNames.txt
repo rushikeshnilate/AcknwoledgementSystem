@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Rushikesh Nilate\OneDrive\Desktop\jdc class\SCMS Application\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2925981027.index
+3445414453.index
+3500965087.index
+323023923.index
+1104309741.index
+2528014036.index
